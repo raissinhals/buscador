@@ -14,7 +14,7 @@ function App() {
     //010310930/json/  
     
     if(input === ''){
-      alert("Preencha com algum CEP!")
+      alert("Preencha com algum CE..P!")
       return;
     }
 
